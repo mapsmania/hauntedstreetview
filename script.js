@@ -500,65 +500,65 @@ const locationNames = {
 
 const stationInfo = {
   [strand]:
-    '<video src="https://cdn.glitch.global/a1539757-cdea-46eb-a75b-e266be5db083/300822432191971330.mp4?v=1728595880260" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/300822432191971330.mp4?v=1728595880260" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [down]:
-    '<video src="https://cdn.glitch.global/a1539757-cdea-46eb-a75b-e266be5db083/1728568125364782660-video_watermark_ec069341b631bf06bf5a74ec5929609f_300769596204732423.mp4?v=1728596738714" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/1728568125364782660-video_watermark_ec069341b631bf06bf5a74ec5929609f_300769596204732423.mp4?v=1728596738714" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [museum]:
-    '<video src="https://cdn.glitch.global/a1539757-cdea-46eb-a75b-e266be5db083/300869593277497352.mp4?v=1728597106070" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/300869593277497352.mp4?v=1728597106070" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [york]:
-    '<video src="https://cdn.glitch.global/a1539757-cdea-46eb-a75b-e266be5db083/300803451234127876.mp4?v=1728597338078" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/300803451234127876.mp4?v=1728597338078" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [brompton]:
-    '<video src="https://cdn.glitch.global/a1539757-cdea-46eb-a75b-e266be5db083/300845843064651785.mp4?v=1728597457522" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/300845843064651785.mp4?v=1728597457522" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [stonehenge]:
-    '<video src="https://cdn.glitch.global/a1539757-cdea-46eb-a75b-e266be5db083/300839622144270336.mp4?v=1728598071541" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/300839622144270336.mp4?v=1728598071541" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [redsquare]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/300897565061513216.mp4?v=1728603653498" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/300897565061513216.mp4?v=1728603653498" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [mont]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/300933185649618949.mp4?v=1728632877791" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/300933185649618949.mp4?v=1728632877791" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [lochness]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/301052877836034052.mp4?v=1728640003777" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/301052877836034052.mp4?v=1728640003777" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [taj]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/301070690785079304.mp4?v=1728640417861" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/301070690785079304.mp4?v=1728640417861" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [white]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/301147776744923136%20(online-video-cutter.com).mp4?v=1728672013884" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/301147776744923136%20(online-video-cutter.com).mp4?v=1728672013884" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [eiffel]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/301217118039867395.mp4?v=1728679062892" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/301217118039867395.mp4?v=1728679062892" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [rome]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/301311435337146376.mp4?v=1728740140032" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/301311435337146376.mp4?v=1728740140032" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [liberty]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/301507920368570372.mp4?v=1728752507893" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/301507920368570372.mp4?v=1728752507893" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [pisa]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/301619905005424645.mp4?v=1728830838825" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/301619905005424645.mp4?v=1728830838825" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [louvre]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/301551115798388741.mp4?v=1728831161944" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/301551115798388741.mp4?v=1728831161944" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [petra]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/301890284592648193.mp4?v=1728837714202" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/301890284592648193.mp4?v=1728837714202" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [forbidden]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/301936348553101319.mp4?v=1728910576597" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/301936348553101319.mp4?v=1728910576597" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [milan]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/301609655875473416.mp4?v=1728915265485" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/301609655875473416.mp4?v=1728915265485" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [vegas]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/302255211597688832.mp4?v=1728929334836" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/302255211597688832.mp4?v=1728929334836" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [poole]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/302418054473203721%20(1).mp4?v=1728983668451" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/302418054473203721%20(1).mp4?v=1728983668451" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [rio]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/302954437826752512.mp4?v=1729091049372" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/302954437826752512.mp4?v=1729091049372" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [gate]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/303044970762895365.mp4?v=1729113454631" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/303044970762895365.mp4?v=1729113454631" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [itza]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/303253954337882120%20(online-video-cutter.com).mp4?v=1729166169195" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/303253954337882120%20(online-video-cutter.com).mp4?v=1729166169195" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [pompeii]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/303333184803356673.mp4?v=1729189016099" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/303333184803356673.mp4?v=1729189016099" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [bear]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/303485532536238085.mp4?v=1729252505520" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/303485532536238085.mp4?v=1729252505520" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [space]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/303722675565154304%20(online-video-cutter.com)%20(1).mp4?v=1729279316438" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/303722675565154304%20(online-video-cutter.com)%20(1).mp4?v=1729279316438" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [venice]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/303941119166312456.mp4?v=1729326472221" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/303941119166312456.mp4?v=1729326472221" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [barca]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/304049258947616772%20(online-video-cutter.com).mp4?v=1729354819884" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/304049258947616772%20(online-video-cutter.com).mp4?v=1729354819884" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [easter]:
-    '<video src="https://cdn.glitch.global/194e2eb8-dea9-4dd9-a160-e283417311a7/1734991216528112817-video_watermark_adacaaea581fdcc62c620597857c1eaf_327720127059906564%20(online-video-cutter.com)%20(1).mp4?v=1734992528280" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/1734991216528112817-video_watermark_adacaaea581fdcc62c620597857c1eaf_327720127059906564%20(online-video-cutter.com)%20(1).mp4?v=1734992528280" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
 
 };
 
