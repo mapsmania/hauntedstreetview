@@ -546,7 +546,7 @@ const stationInfo = {
   [gate]:
     '<video src="videos/303044970762895365.mp4?v=1729113454631" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [itza]:
-    '<video src="videos/303253954337882120%20(online-video-cutter.com).mp4?v=1729166169195" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/mexico.mp4" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [pompeii]:
     '<video src="videos/303333184803356673.mp4?v=1729189016099" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [bear]:
