@@ -520,7 +520,7 @@ const stationInfo = {
   [taj]:
     '<video src="videos/301070690785079304.mp4?v=1728640417861" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [white]:
-    '<video src="videos/301147776744923136%20(online-video-cutter.com).mp4?v=1728672013884" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/whitehouse.mp4" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [eiffel]:
     '<video src="videos/301217118039867395.mp4?v=1728679062892" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [rome]:
