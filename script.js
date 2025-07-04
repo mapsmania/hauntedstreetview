@@ -556,7 +556,7 @@ const stationInfo = {
   [venice]:
     '<video src="videos/303941119166312456.mp4?v=1729326472221" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [barca]:
-    '<video src="videos/304049258947616772%20(online-video-cutter.com).mp4?v=1729354819884" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/frank.mp4" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [easter]:
     '<video src="videos/1734991216528112817-video_watermark_adacaaea581fdcc62c620597857c1eaf_327720127059906564%20(online-video-cutter.com)%20(1).mp4?v=1734992528280" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
 
