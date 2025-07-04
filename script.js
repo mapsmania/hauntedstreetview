@@ -552,7 +552,7 @@ const stationInfo = {
   [bear]:
     '<video src="videos/303485532536238085.mp4?v=1729252505520" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [space]:
-    '<video src="videos/303722675565154304%20(online-video-cutter.com)%20(1).mp4?v=1729279316438" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/needle.mp4" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [venice]:
     '<video src="videos/303941119166312456.mp4?v=1729326472221" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [barca]:
