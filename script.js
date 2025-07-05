@@ -540,7 +540,7 @@ const stationInfo = {
   [vegas]:
     '<video src="videos/302255211597688832.mp4?v=1728929334836" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [poole]:
-    '<video src="videos/302418054473203721%20(1).mp4?v=1728983668451" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
+    '<video src="videos/ferry.mp4" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [rio]:
     '<video src="videos/302954437826752512.mp4?v=1729091049372" autoplay loop class="center responsive-video" onclick="this.requestFullscreen()"></video>',
   [gate]:
