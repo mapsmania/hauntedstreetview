@@ -93,7 +93,7 @@ const LeafIcon = L.Icon.extend({
 });
 
 const greenIcon = new LeafIcon({
-  iconUrl: "videos/_265a5cce-4ba0-4c1c-a76f-a7d5f00d8ea0-removebg-preview (1) (1).png",
+  iconUrl: "videos/marker.png",
   iconSize: [32, 32],
   iconAnchor: [16, 32],
 });
